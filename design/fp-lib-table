@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name exposure-controller)(type KiCad)(uri ${KIPRJMOD}/exposure-controller.pretty)(options "")(descr ""))
+)
